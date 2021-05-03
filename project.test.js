@@ -7,8 +7,8 @@ it('sanity check', () => {
 })
 
 const initialUsers = [
-  { name: 'Ed Carter', bio: 'hero' },
-  { name: 'Mary Edwards', bio: 'super hero' },
+  { name: 'Mount Rushmore National Memorial', bio: ' Memorial' },
+  { name: 'Crazy Horse South Dekota ', bio: 'National Park' },
 ]
 
 beforeEach(() => {
